@@ -1,4 +1,4 @@
-# 🌊 Deep Blue Messenger
+![8303c794001e0fdc346485810b043d86_720](https://github.com/user-attachments/assets/e8048097-f7df-48aa-9b5f-a92368d1d540)# 🌊 Deep Blue Messenger
 
 ## 简介
 Deep Blue Messenger 是一个基于Python的微信消息发送工具。它能够帮助用户自动发送消息，支持多种发送模式。
@@ -76,3 +76,9 @@ Deep Blue Messenger 是一个基于Python的微信消息发送工具。它能够
 
 ## 🌊 Deep Blue Wisdom
 "The deep blue sea remembers everything..."
+
+
+如果觉得可以，可以鼓励小海继续做下去，谢谢你们的支持
+
+
+![8303c794001e0fdc346485810b043d86](https://github.com/user-attachments/assets/1009a81e-658c-425e-8ea5-6ab3e73133a7)
